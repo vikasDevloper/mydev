@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-api-execution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-dbwriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-fsmjob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-handlebars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-infra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-masterjob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-metadata-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-preprocessor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-sparkutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-tablejob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-telemetry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m3-adaptor-ui-api" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="m3-adaptor-api-execution/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-api-execution/src/test/java"/>
+	<classpathentry excluding="java-gen/" kind="src" path="m3-adaptor-api-execution/temp"/>
+	<classpathentry kind="src" path="m3-adaptor-api-execution/temp/java-gen"/>
+	<classpathentry kind="src" path="m3-adaptor-common/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-common/src/test/java"/>
+	<classpathentry excluding="from-safran-p1/|java-gen/" kind="src" path="m3-adaptor-common/temp"/>
+	<classpathentry kind="src" path="m3-adaptor-common/temp/from-safran-p1"/>
+	<classpathentry kind="src" path="m3-adaptor-common/temp/java-gen"/>
+	<classpathentry kind="src" path="m3-adaptor-dbwriter/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-fsmjob/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-fsmjob/src/test/java"/>
+	<classpathentry kind="src" path="m3-adaptor-masterjob/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-masterjob/src/test/java"/>
+	<classpathentry kind="src" path="m3-adaptor-metadata-generator/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-sparkutils/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-sparkutils/src/test/java"/>
+	<classpathentry kind="src" path="m3-adaptor-tablejob/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-tablejob/src/test/java"/>
+	<classpathentry kind="src" path="m3-adaptor-ui-api/src/main/java"/>
+	<classpathentry kind="src" path="m3-adaptor-ui-api/src/test/java"/>
+	<classpathentry excluding="from-safran-p1/|java-gen/" kind="src" path="m3-adaptor-ui-api/temp"/>
+	<classpathentry kind="src" path="m3-adaptor-ui-api/temp/from-safran-p1"/>
+	<classpathentry kind="src" path="m3-adaptor-ui-api/temp/java-gen"/>
+	<classpathentry kind="lib" path="m3-adaptor-api-execution/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-common/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-dbwriter/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-fsmjob/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-masterjob/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-metadata-generator/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-sparkutils/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-tablejob/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="m3-adaptor-ui-api/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
